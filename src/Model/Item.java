@@ -1,3 +1,13 @@
+/*
+ * CLASSE: Item
+ * 
+ * Função: representa um prato ou bebida do restaurante.
+ * 
+ * Nesta classe não há aplicação direta de um padrão GRASP.
+ * Ela é uma entidade simples (modelo de dados) usada pelas demais classes.
+ * Sua responsabilidade é apenas armazenar e fornecer informações sobre um item.
+ */
+
 package Model;
 
     public class Item {
